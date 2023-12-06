@@ -12,6 +12,10 @@
 ![build](https://github.com/Khady19/first-project/assets/95935640/8915b42b-02b4-4126-8870-4965c96060b4)
 # Une fois configuration terminée avec les commande git init; git add . ; git commit -m "sonarcloud"; git push -uf https://github.com/Khady19/first-project.git main
 # Enfin une fois que j'ai actualisée ma page github j'obtient cet resultat 
+![res](https://github.com/Khady19/first-project/assets/95935640/3b65245e-1d6c-4ae8-8559-e8845d10abef)
+SonarCloud vise à aider les développeurs à maintenir un code source de haute qualité en identifiant et en corrigeant rapidement les problèmes. Son utilisation contribue à améliorer la maintenabilité, la fiabilité et la sécurité du logiciel. De plus, en étant hébergé dans le cloud, SonarCloud élimine la nécessité pour les équipes de gérer et de maintenir leur propre infrastructure pour l'analyse statique du code.
+
+
 
 
 
