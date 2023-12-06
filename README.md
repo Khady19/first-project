@@ -5,4 +5,5 @@
 ![sonarlint](https://github.com/Khady19/first-project/assets/95935640/33ec48cb-f3c3-4c5f-ab62-37982c2fbfa0)
 # Apres je me suis connecetr à sonarcloud avec mon compte login 
 ![sonarcloud](https://github.com/Khady19/first-project/assets/95935640/cde4cd8c-119a-464f-9293-8505d2fee6a5)
-# 
+# Je crée un secret dans github qui permet aux utilisateurs de stocker en toute sécurité ces informations sensibles dans leur référentiel. Ces secrets sont chiffrés et ne sont pas exposés dans le code source ou les journaux de construction, contribuant ainsi à maintenir la sécurité des informations sensibles.
+
